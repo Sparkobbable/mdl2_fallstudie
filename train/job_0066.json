@@ -1,0 +1,26 @@
+{
+  "job_title": "System Administrator",
+  "company": "Intrepid Museum",
+  "experience_level": "mid",
+  "required_skills": [
+    "Degree in IT or related field",
+    "Experience with Windows",
+    "Hyper-V",
+    "Active Directory",
+    "Exchange",
+    "SQL Server",
+    "Office 365",
+    "Network monitoring and administration",
+    "Virtualization",
+    "Security and disaster recovery",
+    "Root cause analysis",
+    "Project management"
+  ],
+  "education_requirements": "Degree in information technology or related field",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": []
+}

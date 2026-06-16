@@ -1,0 +1,20 @@
+{
+  "job_title": "The Judge Group  New York, NY",
+  "company": "Systems Administrator",
+  "experience_level": "mid",
+  "required_skills": [
+    "experience with device management platforms like Jamf and Google Admin",
+    "identity management systems like Okta",
+    "MacOS administration",
+    "AWS/Azure/GCP",
+    "networking",
+    "collaboration tools"
+  ],
+  "education_requirements": "Bachelor's degree in IT or related field",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": []
+}

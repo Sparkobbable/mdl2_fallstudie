@@ -1,0 +1,31 @@
+{
+  "job_title": "Service Manager",
+  "company": "Work With Your Handz",
+  "experience_level": "unknown",
+  "required_skills": [
+    "Experience in residential HVAC",
+    "plumbing or electrical service",
+    "management/supervisory experience",
+    "valid driver's license",
+    "leadership skills",
+    "customer service skills",
+    "organized"
+  ],
+  "education_requirements": "",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Health",
+    "dental",
+    "optical",
+    "orthodontia",
+    "disability",
+    "life insurance",
+    "401k with match",
+    "PTO",
+    "training"
+  ]
+}

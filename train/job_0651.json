@@ -1,0 +1,22 @@
+{
+  "job_title": "Software Developer",
+  "company": "Remote Team Inc.",
+  "experience_level": "unknown",
+  "required_skills": [
+    "Ability to work with modern frameworks like ReactJS or VueJS",
+    "Familiarity with version control systems like Git",
+    "Experience with test-driven development (TDD)"
+  ],
+  "education_requirements": "",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Competitive salary",
+    "empowering team culture",
+    "experienced lead developers",
+    "open source work time"
+  ]
+}

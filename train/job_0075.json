@@ -1,0 +1,23 @@
+{
+  "job_title": "Retail Sales Associate",
+  "company": "Certified Oil",
+  "experience_level": "unknown",
+  "required_skills": [
+    "Customer service skills",
+    "cash handling",
+    "ability to multitask in fast-paced environment"
+  ],
+  "education_requirements": "",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Competitive wages with monthly bonus potential",
+    "401K with company match",
+    "employee discounts",
+    "tuition reimbursement",
+    "employee assistance program"
+  ]
+}

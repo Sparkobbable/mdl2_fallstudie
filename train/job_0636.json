@@ -1,0 +1,30 @@
+{
+  "job_title": "Real Estate Agent - Cleveland (Future Opportunities)",
+  "company": "Redfin",
+  "experience_level": "unknown",
+  "required_skills": [
+    "Active real estate license",
+    "interpersonal and communication skills",
+    "ability to learn and use new technology",
+    "reliable transportation"
+  ],
+  "education_requirements": "",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Base salary",
+    "transaction bonuses",
+    "event pay",
+    "performance bonuses",
+    "stock options",
+    "benefits including medical",
+    "dental",
+    "vision",
+    "paid vacation",
+    "mileage reimbursement",
+    "etc"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "job_title": "Bank Teller",
+  "company": "The Bank of Grain Valley",
+  "experience_level": "entry",
+  "required_skills": [
+    "No specific technical or soft skills mentioned",
+    "Ability to work weekday daytime shifts is required"
+  ],
+  "education_requirements": "",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Pay is $12 per hour",
+    "Benefits include 401k with matching",
+    "dental insurance",
+    "health insurance",
+    "life insurance",
+    "vision insurance"
+  ]
+}

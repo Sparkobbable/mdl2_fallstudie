@@ -1,0 +1,24 @@
+{
+  "job_title": "Office Clerk",
+  "company": "Randstad",
+  "experience_level": "junior",
+  "required_skills": [
+    "Microsoft Office",
+    "Outlook",
+    "Excel",
+    "Word",
+    "Teams",
+    "OneDrive",
+    "QuickBooks Online",
+    "Smart Service CMS",
+    "dispatching",
+    "appointment scheduling"
+  ],
+  "education_requirements": "High school",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": []
+}

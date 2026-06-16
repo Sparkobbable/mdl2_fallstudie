@@ -1,0 +1,27 @@
+{
+  "job_title": "Human Resources Generalist",
+  "company": "Aveda Institutes",
+  "experience_level": "junior",
+  "required_skills": [
+    "Bachelor's degree in HR or related field",
+    "2+ years of relevant experience",
+    "strong interpersonal and communication skills"
+  ],
+  "education_requirements": "Bachelor's degree in human resources or related field",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Salary range not specified",
+    "401(k) with matching",
+    "dental insurance",
+    "employee assistance program",
+    "flexible spending account",
+    "health insurance",
+    "life insurance",
+    "paid time off",
+    "vision insurance"
+  ]
+}

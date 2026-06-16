@@ -1,0 +1,31 @@
+{
+  "job_title": "Collections",
+  "company": "Dawson Resources",
+  "experience_level": "junior",
+  "required_skills": [
+    "Accounting",
+    "bookkeeping",
+    "insurance knowledge",
+    "collections experience",
+    "writing",
+    "communication",
+    "organization",
+    "problem solving",
+    "computer skills"
+  ],
+  "education_requirements": "High school diploma, accounting/finance/bookkeeping courses desired.",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Hourly pay",
+    "yearly bonus",
+    "competitive benefits",
+    "unlimited PTO",
+    "401k match",
+    "tuition assistance",
+    "stock purchase plan"
+  ]
+}

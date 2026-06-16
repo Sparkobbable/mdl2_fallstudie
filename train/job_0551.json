@@ -1,0 +1,22 @@
+{
+  "job_title": "Data Entry Clerk",
+  "company": "Tesla",
+  "experience_level": "unknown",
+  "required_skills": [
+    "Proficiency in data entry",
+    "Attention to detail and accuracy",
+    "Ability to identify and flag discrepant data",
+    "Communication skills to relay issues verbally and in writing"
+  ],
+  "education_requirements": "",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Flexible scheduling",
+    "Benefits for the whole family",
+    "Generous PTO"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "job_title": "Sr. System Administrator",
+  "company": "Talent",
+  "experience_level": "senior",
+  "required_skills": [
+    "Good working knowledge of SAP",
+    "databases",
+    "operating systems",
+    "and hardware platforms",
+    "Ability to write Unix shell and Perl scripting",
+    "Knowledge of NWDI architecture and functionality",
+    "SAP certification is a plus"
+  ],
+  "education_requirements": "Bachelor's degree mandatory, prefer computer science or related field.",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": []
+}

@@ -1,0 +1,38 @@
+{
+  "job_title": "Systems Administrator",
+  "company": "Penske Media Corporation",
+  "experience_level": "mid",
+  "required_skills": [
+    "3+ years experience in systems administration",
+    "network administration and/or infrastructure administration",
+    "Self-motivated",
+    "Strong interpersonal",
+    "verbal and written communication skills",
+    "Attention to detail",
+    "Ability to identify inefficiencies and improve security",
+    "Understanding of user",
+    "server",
+    "network",
+    "storage administration",
+    "Experience with AWS",
+    "Ability to prioritize and make sound judgements"
+  ],
+  "education_requirements": "",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Comprehensive benefits package including healthcare",
+    "dental",
+    "vision",
+    "HSA",
+    "FSA",
+    "life insurance",
+    "paid parental leave",
+    "PTO",
+    "pet insurance",
+    "home/auto insurance"
+  ]
+}

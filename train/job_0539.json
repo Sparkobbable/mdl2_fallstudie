@@ -1,0 +1,18 @@
+{
+  "job_title": "Software Developer",
+  "company": "Biofidelity",
+  "experience_level": "unknown",
+  "required_skills": [
+    "Software development experience in industry essential",
+    "Python preferred",
+    "Experience in architecting and developing cloud-based solutions essential",
+    "AWS preferred"
+  ],
+  "education_requirements": "",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": []
+}

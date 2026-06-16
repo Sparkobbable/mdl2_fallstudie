@@ -1,0 +1,18 @@
+{
+  "job_title": "Bank Teller",
+  "company": "US Bank",
+  "experience_level": "unknown",
+  "required_skills": [
+    "Excellent interpersonal and communication skills"
+  ],
+  "education_requirements": "",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Estimated salary to $XX per hour based on qualifications",
+    "Benefits like medical dental vision k and more"
+  ]
+}

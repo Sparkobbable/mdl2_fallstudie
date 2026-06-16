@@ -1,0 +1,31 @@
+{
+  "job_title": "Audit Staff Accountant",
+  "company": "Spherion",
+  "experience_level": "junior",
+  "required_skills": [
+    "Proficient in use of computers",
+    "Proficient in Microsoft Excel and Word",
+    "Ability to communicate clearly and concisely"
+  ],
+  "education_requirements": "Bachelor's degree",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Medical",
+    "dental and vision plans",
+    "Health savings account with employer contribution",
+    "Safe harbor 401k plan",
+    "Commission policy",
+    "Firm provided life insurance",
+    "Continuing professional education",
+    "Tuition reimbursement",
+    "Professional dues reimbursement",
+    "Mentoring program",
+    "Vacation time",
+    "Paid holidays",
+    "Summer Fridays"
+  ]
+}

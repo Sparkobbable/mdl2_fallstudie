@@ -1,0 +1,38 @@
+{
+  "job_title": "Software Engineer (Remote)",
+  "company": "Inspire",
+  "experience_level": "unknown",
+  "required_skills": [
+    "Experience or interest in Ruby",
+    "Rails",
+    "Sinatra",
+    "RSpec",
+    "PostgreSQL",
+    "React",
+    "NextJS",
+    "Cypress",
+    "Git",
+    "GitHub",
+    "and deploying to Heroku/AWS"
+  ],
+  "education_requirements": "",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Health",
+    "dental",
+    "and vision coverage",
+    "Summer Fridays and wellness days",
+    "Mental health benefits",
+    "Company paid parental leave",
+    "Flexible time off",
+    "401k up to 4% matching",
+    "Employee resource groups",
+    "Semi-annual performance bonuses",
+    "Dog-friendly workplace",
+    "Fun company events"
+  ]
+}

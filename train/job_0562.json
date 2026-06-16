@@ -1,0 +1,29 @@
+{
+  "job_title": "Retail Sales Associate",
+  "company": "Burlington Stores",
+  "experience_level": "unknown",
+  "required_skills": [
+    "Outgoing",
+    "upbeat",
+    "great organizational skills",
+    "ability to work flexible schedule including nights",
+    "weekends",
+    "and holidays"
+  ],
+  "education_requirements": "",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Competitive wage",
+    "flexible hours",
+    "associate discount",
+    "benefits package including dental and vision coverage",
+    "life insurance",
+    "paid time off",
+    "paid holidays",
+    "401k plan"
+  ]
+}

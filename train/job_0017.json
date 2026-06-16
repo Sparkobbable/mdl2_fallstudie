@@ -1,0 +1,23 @@
+{
+  "job_title": "Systems Analyst - Appserver Admin",
+  "company": "United Nations Federal Credit Union",
+  "experience_level": "mid",
+  "required_skills": [
+    "Bachelors degree in computer science",
+    "related engineering field",
+    "core retail banking",
+    "proficiency in task automation and scripting language",
+    "particularly Windows PowerShell",
+    "general understanding of web application vulnerabilities like SQL injection",
+    "cross site scripting etc",
+    "and some familiarity with web application vulnerabilities remediation",
+    "strong analytical ability/problem solving skills"
+  ],
+  "education_requirements": "Bachelor's degree in computer science, related engineering field, or management information systems",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": []
+}

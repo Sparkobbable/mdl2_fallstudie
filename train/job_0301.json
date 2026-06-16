@@ -1,0 +1,25 @@
+{
+  "job_title": "E-Commerce Account Manager",
+  "company": "Rockland",
+  "experience_level": "unknown",
+  "required_skills": [
+    "Account management",
+    "negotiation",
+    "verbal and written communication"
+  ],
+  "education_requirements": "",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Salary per week",
+    "health insurance",
+    "dental insurance",
+    "life insurance",
+    "paid time off",
+    "vision insurance",
+    "bonus pay"
+  ]
+}

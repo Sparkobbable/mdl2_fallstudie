@@ -1,0 +1,37 @@
+{
+  "job_title": "Sales Manager",
+  "company": "Aaron's Inc",
+  "experience_level": "unknown",
+  "required_skills": [
+    "United States",
+    "Canada at least the age of 19",
+    "ability to work schedule of hours varying from 8 am to 8 pm",
+    "high school diploma or equivalent preferred",
+    "two years of college or two years of previous management experience preferred",
+    "strong organizational and communication both verbal and interpersonal skills",
+    "proper telephone etiquette"
+  ],
+  "education_requirements": "high school diploma or equivalent preferred, two years of college or two years of previous management experience preferred",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "dental",
+    "vision",
+    "tuition reimbursement",
+    "pay on demand options",
+    "basic life and ADD employee retirement plan",
+    "employee assistance program",
+    "parental leave benefits",
+    "flexible spending accounts",
+    "health savings accounts",
+    "short-term disability",
+    "long-term disability",
+    "employee stock purchase plan",
+    "paid time off",
+    "financial wellness",
+    "physical wellness"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "job_title": "Customer Service Representative",
+  "company": "Macys--Remote",
+  "experience_level": "unknown",
+  "required_skills": [
+    "High school diploma or GED",
+    "Ability to calculate figures and percentages",
+    "Ability to solve problems involving concrete variables",
+    "Ability to interpret instructions",
+    "Ability to provide customer service",
+    "Strong analytical skills",
+    "Excellent communication skills"
+  ],
+  "education_requirements": "High school diploma or GED required.",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Weekly base pay plus quarterly company incentive",
+    "Additional $1 per hour premium pay for weekend and evening hours",
+    "Fully funded education program",
+    "Employee discount on Macy's merchandise",
+    "Medical",
+    "dental",
+    "vision benefits",
+    "Commuter benefits",
+    "PTO and paid holidays"
+  ]
+}

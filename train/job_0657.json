@@ -1,0 +1,23 @@
+{
+  "job_title": "Engineering Lead - Analytics Platform",
+  "company": "Tempus",
+  "experience_level": "lead",
+  "required_skills": [
+    "Experience managing software development teams",
+    "leading technical analysis and design",
+    "evaluating tradeoffs",
+    "Proficiency in technologies like AWS",
+    "Redshift",
+    "Apache Airflow",
+    "Python",
+    "Docker",
+    "Ability to serve as a technical mentor"
+  ],
+  "education_requirements": "",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": []
+}

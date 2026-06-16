@@ -1,0 +1,23 @@
+{
+  "job_title": "Office Clerk",
+  "company": "American Cybersystems",
+  "experience_level": "junior",
+  "required_skills": [
+    "high school diploma",
+    "at least 1 year experience in office or administrative roles",
+    "ms office knowledge",
+    "data entry skills",
+    "attention to detail"
+  ],
+  "education_requirements": "high school diploma",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "salary $15 per hour",
+    "location jacksonville fl",
+    "duration temporary"
+  ]
+}

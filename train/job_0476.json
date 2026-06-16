@@ -1,0 +1,18 @@
+{
+  "job_title": "Kitchen Cleaner",
+  "company": "HAWKINS HOUSE OF BURGERS",
+  "experience_level": "unknown",
+  "required_skills": [
+    "capable of learning new skills quickly",
+    "able to use hand and mechanical tools to ensure safety and completion of tasks"
+  ],
+  "education_requirements": "",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "$15/hour"
+  ]
+}

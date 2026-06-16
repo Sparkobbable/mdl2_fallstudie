@@ -1,0 +1,19 @@
+{
+  "job_title": "Retail Sales Associate",
+  "company": "PetSmart",
+  "experience_level": "unknown",
+  "required_skills": [
+    "Customer service",
+    "cashiering",
+    "merchandising",
+    "inventory management",
+    "ability to care for animals"
+  ],
+  "education_requirements": "",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": []
+}

@@ -1,0 +1,17 @@
+{
+  "job_title": "Staff Accountant",
+  "company": "Greenlight",
+  "experience_level": "unknown",
+  "required_skills": [
+    "Accounting knowledge and practices",
+    "Microsoft Excel skills",
+    "ability to manipulate and analyze large datasets"
+  ],
+  "education_requirements": "Degree in accounting, finance or related field",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": []
+}

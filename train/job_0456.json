@@ -1,0 +1,36 @@
+{
+  "job_title": "Teachers at Alpha Park KinderCare",
+  "company": "KinderCare Education",
+  "experience_level": "unknown",
+  "required_skills": [
+    "CPR and first aid certification",
+    "Active CDA credential or willing to obtain",
+    "Completed core ECE units or BA in child development",
+    "Physically able to use a computer",
+    "lift minimum of 50 lbs",
+    "work indoors/outdoors",
+    "Able to assume postures for physical and visual contact with children",
+    "Able to see",
+    "hear",
+    "read",
+    "write",
+    "speak English to communicate with children and parents"
+  ],
+  "education_requirements": "CDA credential or core ECE units or BA in child development",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Medical",
+    "dental",
+    "vision",
+    "childcare benefit",
+    "paid time off",
+    "education assistance",
+    "reimbursements",
+    "retirement plan",
+    "health/wellness programs"
+  ]
+}

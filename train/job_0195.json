@@ -1,0 +1,26 @@
+{
+  "job_title": "Sales Associate/Beauty Advisor",
+  "company": "Sally Beauty",
+  "experience_level": "unknown",
+  "required_skills": [
+    "Passion for beauty",
+    "customer service skills",
+    "communication skills",
+    "sales ability"
+  ],
+  "education_requirements": "",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Product discount",
+    "free samples",
+    "medical",
+    "dental",
+    "vision",
+    "vacation",
+    "sick days and holidays for full time employees"
+  ]
+}

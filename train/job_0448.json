@@ -1,0 +1,34 @@
+{
+  "job_title": "Web Developer",
+  "company": "TrackFive",
+  "experience_level": "junior",
+  "required_skills": [
+    "2+ years of experience with HTML and CSS/SASS",
+    "experience with ES6 JavaScript and jQuery",
+    "Laravel etc",
+    "ability to build and consume custom SOAP and REST APIs",
+    "2+ years of experience writing unit tests detailing procedures",
+    "self-motivated requiring minimal supervision",
+    "exceptional organization and communication skills"
+  ],
+  "education_requirements": "",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Free health insurance for employees with no waiting period",
+    "dental and vision insurance (Trackfive splits the cost)",
+    "paid birthday holiday",
+    "company-paid short and long-term disability insurance",
+    "company-paid life insurance",
+    "flex time",
+    "paid parental leave",
+    "company-matched retirement plan with no waiting or vesting period",
+    "work-from-home options",
+    "office perks like snacks/massages/pet days",
+    "opportunity to work with great people on exciting things",
+    "amazing holiday party"
+  ]
+}

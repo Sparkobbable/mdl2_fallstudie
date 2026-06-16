@@ -1,0 +1,22 @@
+{
+  "job_title": "Software Developer- Entry Level",
+  "company": "Apprentice Now",
+  "experience_level": "entry",
+  "required_skills": [
+    "Basic software development and testing skills",
+    "Ability to build applications and interfaces based on requirements",
+    "Knowledge of software QA processes",
+    "Communication skills to work with teams and clients"
+  ],
+  "education_requirements": "High school diploma or GED required. No need for higher education or college degree.",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Full-time salaried role with benefits including medical",
+    "dental",
+    "vision"
+  ]
+}

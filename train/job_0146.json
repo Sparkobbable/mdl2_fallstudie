@@ -1,0 +1,20 @@
+{
+  "job_title": "Insurance Agent",
+  "company": "Country Financial",
+  "experience_level": "unknown",
+  "required_skills": [
+    "Property-casualty state insurance license",
+    "life/health state insurance license"
+  ],
+  "education_requirements": "",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Commissions and bonuses",
+    "retirement plan",
+    "group insurance plans"
+  ]
+}

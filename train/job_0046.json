@@ -1,0 +1,22 @@
+{
+  "job_title": "Data Entry Clerk",
+  "company": "SimplyInsured",
+  "experience_level": "unknown",
+  "required_skills": [
+    "Proficiency in data entry and attention to detail"
+  ],
+  "education_requirements": "",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Hourly pay rate",
+    "Annual bonus",
+    "Company paid insurance - medical",
+    "dental",
+    "vision",
+    "life"
+  ]
+}

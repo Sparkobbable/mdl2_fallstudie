@@ -1,0 +1,18 @@
+{
+  "job_title": "Programmer Analyst with R Consultant",
+  "company": "Brains Workgroup",
+  "experience_level": "junior",
+  "required_skills": [
+    "2+ years of R programming experience",
+    "Experience with dplyr and testthat R packages preferred",
+    "Ability to read and understand SAS code is required",
+    "Experience with SQL is helpful"
+  ],
+  "education_requirements": "",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": []
+}

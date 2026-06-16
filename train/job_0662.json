@@ -1,0 +1,31 @@
+{
+  "job_title": "Systems administrator",
+  "company": "The Computer Merchant, Ltd",
+  "experience_level": "mid",
+  "required_skills": [
+    "Bachelor's degree in related field",
+    "5 years experience with Microsoft Windows and VMware",
+    "Strong TCP/IP and shell scripting skills preferred",
+    "Problem solving and performance tuning skills",
+    "Ability to work in a team and independently"
+  ],
+  "education_requirements": "Bachelor's degree in related field",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Hourly wage range listed",
+    "Comprehensive salary analysis considers multiple factors",
+    "Benefits include medical",
+    "dental",
+    "vision",
+    "flexible spending account",
+    "401k",
+    "life insurance",
+    "disability insurance",
+    "employee assistance program",
+    "paid time off"
+  ]
+}

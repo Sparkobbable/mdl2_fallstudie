@@ -1,0 +1,26 @@
+{
+  "job_title": "Software Engineer (JavaScript Backend)",
+  "company": "Blockchains",
+  "experience_level": "mid",
+  "required_skills": [
+    "Agile mindset",
+    "passion for writing clean",
+    "high-quality code",
+    "experience designing",
+    "implementing and integrating production-ready web services",
+    "able to contribute to design activities and code reviews",
+    "familiarity with test automation frameworks and debugging",
+    "knowledge of Docker",
+    "YAML",
+    "JSON",
+    "TypeScript or similar JS frameworks",
+    "foundational cryptography and blockchain knowledge"
+  ],
+  "education_requirements": "Bachelor's degree or higher in computer science or STEM with strong CS background",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": []
+}

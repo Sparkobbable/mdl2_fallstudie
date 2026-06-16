@@ -1,0 +1,19 @@
+{
+  "job_title": "Account Executive",
+  "company": "SPECTRUM",
+  "experience_level": "executive",
+  "required_skills": [
+    "Ability to read",
+    "write",
+    "speak and understand English",
+    "Knowledge of communications technologies and telephone/internet fundamentals",
+    "Valid driver's license with satisfactory driving record"
+  ],
+  "education_requirements": "Bachelor's degree in business, marketing or related field or equivalent experience.",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": []
+}

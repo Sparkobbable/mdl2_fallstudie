@@ -1,0 +1,25 @@
+{
+  "job_title": "Retail Sales Associate",
+  "company": "Nike Inc",
+  "experience_level": "unknown",
+  "required_skills": [
+    "Excellent customer service skills",
+    "ability to communicate effectively",
+    "able to stand for extended periods",
+    "accomplish tasks in a fast-paced environment",
+    "work in a team-oriented environment"
+  ],
+  "education_requirements": "",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Starting wage of at least $15 per hour",
+    "Benefits package that's among the best",
+    "casual work environment",
+    "diverse and inclusive culture",
+    "professional development opportunities"
+  ]
+}

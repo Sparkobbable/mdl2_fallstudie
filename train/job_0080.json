@@ -1,0 +1,23 @@
+{
+  "job_title": "Wordpress Web Developer",
+  "company": "Themesoft Inc",
+  "experience_level": "junior",
+  "required_skills": [
+    "php",
+    "wordpress",
+    "wp plugins",
+    "html",
+    "css",
+    "java script",
+    "mysql",
+    "linux",
+    "git"
+  ],
+  "education_requirements": "a bachelors degree in computer science, engineering, information technology or equivalent experience",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": []
+}

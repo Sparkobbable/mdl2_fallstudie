@@ -1,0 +1,21 @@
+{
+  "job_title": "Office Administrator",
+  "company": "Toll International LLC",
+  "experience_level": "junior",
+  "required_skills": [
+    "Proficiency in Microsoft Office Suite (Word",
+    "Excel",
+    "Outlook",
+    "Access)",
+    "communication and writing skills",
+    "time management and multitasking abilities",
+    "ability to handle confidential information"
+  ],
+  "education_requirements": "Bachelor's degree",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": []
+}

@@ -1,0 +1,19 @@
+{
+  "job_title": "Sales Associates- Providence Place",
+  "company": "Showcase",
+  "experience_level": "unknown",
+  "required_skills": [
+    "superior product knowledge",
+    "ability to stand and walk for extended periods",
+    "ability to demo products",
+    "ability to read",
+    "write and perform basic math"
+  ],
+  "education_requirements": "high school diploma or associate's degree",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": []
+}

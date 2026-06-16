@@ -1,0 +1,20 @@
+{
+  "job_title": "Accountant",
+  "company": "Vita Healthcare Group",
+  "experience_level": "mid",
+  "required_skills": [
+    "Prior accounting or bookkeeping experience"
+  ],
+  "education_requirements": "Associate or bachelors degree preferred or at least 3 years accounting experience",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Competitive wages",
+    "health insurance for those eligible",
+    "voluntary benefits disability accident life",
+    "generous paid time off"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "job_title": "Senior Software Engineer -  Virtualization Group - (Remote)",
+  "company": "Citrix",
+  "experience_level": "senior",
+  "required_skills": [
+    "Experience developing backend services",
+    "microservice",
+    "cloud services",
+    "REST API or Web API is required",
+    "Demonstrated experience in writing clean code in large codebases",
+    "Strong understanding of computer science fundamentals",
+    "algorithms and data structures",
+    "Experience with AWS or Azure cloud platform"
+  ],
+  "education_requirements": "BS or MS degree or equivalent in a technical field preferred",
+  "salary_range": {
+    "min": 160000,
+    "max": 220000,
+    "currency": "USD"
+  },
+  "compensation_benefits": [
+    "In the state of Colorado",
+    "training",
+    "experience",
+    "licensure",
+    "and certification that could result at a level outside of this range",
+    "Certain roles are eligible for additional rewards including annual bonus",
+    "sales incentives",
+    "US based employees are typically offered access to healthcare",
+    "life insurance and disability benefits",
+    "401k plan and company match",
+    "employee stock purchase program (ESPP)",
+    "and education assistance program among others"
+  ]
+}

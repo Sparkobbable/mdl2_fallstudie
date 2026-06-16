@@ -1,0 +1,35 @@
+{
+  "job_title": "Senior Full Stack Software Engineer- Remote",
+  "company": "Segrera Associates",
+  "experience_level": "senior",
+  "required_skills": [
+    "3+ years of demonstrated hands-on experience in software development",
+    "Thorough knowledge and experience with .NET",
+    "C#",
+    "Docker",
+    "containerized deployments",
+    "WebAPI",
+    "Entity Framework",
+    "Significant experience with frontend technologies such as React",
+    "Vue.js",
+    "Bootstrap",
+    "HTML",
+    "JavaScript",
+    "TypeScript",
+    "CSS",
+    "PostgreSQL"
+  ],
+  "education_requirements": "",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Competitive salary",
+    "equity",
+    "medical",
+    "dental and vision benefits",
+    "and unlimited PTO after 90 days"
+  ]
+}

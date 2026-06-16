@@ -1,0 +1,18 @@
+{
+  "job_title": "Registered Nurse",
+  "company": "Alberta Health Services",
+  "experience_level": "mid",
+  "required_skills": [
+    "Active registration with the College of Registered Nurses of Alberta (CRNA)",
+    "Minimum 1 year nursing experience in the past 5 years",
+    "Minimum 6 months pediatric emergency department experience in the last 3 years",
+    "Basic cardiac life support certification"
+  ],
+  "education_requirements": "Completion of an accredited nursing education program.",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": []
+}

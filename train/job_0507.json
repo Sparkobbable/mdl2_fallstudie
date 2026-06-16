@@ -1,0 +1,35 @@
+{
+  "job_title": "E-Commerce Manager",
+  "company": "Emerald Resource Group",
+  "experience_level": "mid",
+  "required_skills": [
+    "Bachelor's degree",
+    "5+ years IT experience",
+    "5+ years management and/or supervisory experience",
+    "5+ years managing software engineers",
+    "5+ years managing applications and/or systems management",
+    "experience with current mobile technologies and trends",
+    "experience with software quality practices",
+    "experience with architectural patterns and paradigms",
+    "good project management skills"
+  ],
+  "education_requirements": "Bachelor's degree",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Work remotely",
+    "casual dress",
+    "medical",
+    "dental",
+    "free lunch on Friday",
+    "flexible start times",
+    "performance bonus opportunities",
+    "generous time off for holidays",
+    "personal MSDN subscription",
+    "private indoor swimming pool",
+    "private indoor basketball court"
+  ]
+}

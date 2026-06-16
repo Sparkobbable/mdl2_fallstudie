@@ -1,0 +1,21 @@
+{
+  "job_title": "Real Estate Agent",
+  "company": "EXIT Realty Top Properties NY",
+  "experience_level": "unknown",
+  "required_skills": [
+    "Real estate license",
+    "sales and communication skills",
+    "knowledge of local real estate market"
+  ],
+  "education_requirements": "",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Generous commission splits",
+    "Residuals for agents brought into the company",
+    "Ongoing lead generation provided"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "job_title": "Sales Manager",
+  "company": "AC Hotel Columbus Downtown",
+  "experience_level": "unknown",
+  "required_skills": [
+    "Proactive planning",
+    "organizational skills",
+    "pricing and revenue management knowledge",
+    "Ability to meet monthly revenue and sales goals"
+  ],
+  "education_requirements": "",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Competitive wages",
+    "comprehensive benefits package including medical",
+    "dental",
+    "vision",
+    "life insurance",
+    "disability",
+    "tuition assistance",
+    "discounted hotel rates",
+    "training and career development opportunities"
+  ]
+}

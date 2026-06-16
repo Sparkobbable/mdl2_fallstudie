@@ -1,0 +1,29 @@
+{
+  "job_title": "Web Developer",
+  "company": "Bright Nexus (M) Sdn Bhd",
+  "experience_level": "junior",
+  "required_skills": [
+    "Bachelor's degree in IT or equivalent",
+    "proficiency in front end (Angular",
+    "React",
+    "HTML",
+    "CSS) and back end (TypeScript",
+    "JavaScript",
+    "Node.js) languages and frameworks",
+    "knowledge of SQL and NoSQL databases (MySQL",
+    "PostgreSQL",
+    "MongoDB",
+    "Redis)",
+    "Git and GitFlow",
+    "DevOps and CI/CD",
+    "SEO",
+    "CMS systems"
+  ],
+  "education_requirements": "Bachelor's degree in IT or equivalent",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": []
+}

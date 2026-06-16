@@ -1,0 +1,23 @@
+{
+  "job_title": "Retail Sales Associate",
+  "company": "Nespresso",
+  "experience_level": "junior",
+  "required_skills": [
+    "High school diploma or GED",
+    "1+ years retail/sales/hospitality experience",
+    "passion for coffee and sustainability"
+  ],
+  "education_requirements": "High school diploma or GED.",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Flexible hours",
+    "opening/closing shifts",
+    "weekends",
+    "holidays",
+    "Veterans and people with disabilities are encouraged to apply"
+  ]
+}

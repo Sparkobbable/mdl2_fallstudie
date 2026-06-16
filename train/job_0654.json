@@ -1,0 +1,19 @@
+{
+  "job_title": "Software Engineer, Test, Advertising",
+  "company": "Spotify",
+  "experience_level": "mid",
+  "required_skills": [
+    "Proficiency in test automation frameworks like Selenium",
+    "experience with infrastructure as code tools like Terraform",
+    "knowledge of CI/CD pipelines",
+    "Strong coding skills in languages like Python or Java",
+    "Communication and collaboration skills"
+  ],
+  "education_requirements": "",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": []
+}

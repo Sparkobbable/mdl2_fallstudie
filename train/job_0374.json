@@ -1,0 +1,28 @@
+{
+  "job_title": "Mainframe Programmer Analyst",
+  "company": "Orion Innovation",
+  "experience_level": "senior",
+  "required_skills": [
+    "Cobol",
+    "Cobol II",
+    "JCL",
+    "JCL Procs",
+    "IBM Utilities",
+    "Sync Sort Utility",
+    "File Aid Utility",
+    "CICS",
+    "SQL",
+    "SPUFI",
+    "QMF Utilities",
+    "VSAM",
+    "TSO/ISPF",
+    "OS/MVS"
+  ],
+  "education_requirements": "Baccalaureate degree in computer science, information systems, engineering, mathematics or related field.",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": []
+}

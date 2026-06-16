@@ -1,0 +1,29 @@
+{
+  "job_title": "Firmware Test Engineer",
+  "company": "Infosys",
+  "experience_level": "junior",
+  "required_skills": [
+    "Bachelor's degree or equivalent",
+    "Proficiency in Android firmware testing and test automation frameworks",
+    "Experience testing device drivers",
+    "BSPs",
+    "and protocols like SPI",
+    "UART",
+    "USB",
+    "Familiarity with tools like Jira",
+    "Confluence",
+    "TestRail",
+    "Appium",
+    "Selenium",
+    "GitHub",
+    "Jenkins",
+    "CircleCI"
+  ],
+  "education_requirements": "Bachelor's degree or equivalent",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": []
+}

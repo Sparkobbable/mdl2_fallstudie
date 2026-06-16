@@ -1,0 +1,23 @@
+{
+  "job_title": "Realtor",
+  "company": "BH Properties",
+  "experience_level": "entry",
+  "required_skills": [
+    "Real estate license",
+    "communication skills",
+    "tech savvy"
+  ],
+  "education_requirements": "",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Competitive compensation with bonus incentives",
+    "Benefits include flexible scheduling",
+    "branding assistance",
+    "crm software",
+    "and more"
+  ]
+}

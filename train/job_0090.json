@@ -1,0 +1,27 @@
+{
+  "job_title": "Executive Assistant",
+  "company": "Directv",
+  "experience_level": "executive",
+  "required_skills": [
+    "Proficiency with office software and administrative procedures",
+    "Knowledge of budgets",
+    "payroll",
+    "personnel",
+    "Excellent organization",
+    "prioritization",
+    "communication and interpersonal skills"
+  ],
+  "education_requirements": "High school diploma or equivalent.",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Salary range between $35-55k",
+    "Benefits include health insurance",
+    "tuition reimbursement",
+    "paid time off",
+    "employee discounts"
+  ]
+}

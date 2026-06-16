@@ -1,0 +1,37 @@
+{
+  "job_title": "Senior Manager, Test",
+  "company": "Helix",
+  "experience_level": "senior",
+  "required_skills": [
+    "5+ years leading test engineering teams",
+    "experience with test case management tools (e.g",
+    "TestRail",
+    "Jama",
+    "etc)",
+    "proven track record of recruiting",
+    "managing and retaining engineering talent",
+    "development experience in Go",
+    "Python",
+    "TypeScript or a similar language",
+    "empathetic",
+    "diligent",
+    "data-driven",
+    "high-integrity leadership style"
+  ],
+  "education_requirements": "",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "competitive compensation",
+    "comprehensive health insurance package including employer sponsored HSA",
+    "6 weeks of maternity or paternity leave",
+    "401k with employer matching and 100% vested on first day",
+    "corporate fitness rate",
+    "comprehensive well being benefits",
+    "catered meals",
+    "flexible PTO"
+  ]
+}

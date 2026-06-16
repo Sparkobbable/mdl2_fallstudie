@@ -1,0 +1,25 @@
+{
+  "job_title": "Clerical",
+  "company": "Jacksonville Job Corps Center",
+  "experience_level": "junior",
+  "required_skills": [
+    "Administrative skills",
+    "customer service skills"
+  ],
+  "education_requirements": "High school diploma or equivalent.",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Hourly pay",
+    "401k",
+    "dental insurance",
+    "employee assistance program",
+    "health insurance",
+    "life insurance",
+    "paid time off",
+    "vision insurance"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "job_title": "Inventory Clerk",
+  "company": "Target Stores",
+  "experience_level": "unknown",
+  "required_skills": [
+    "Proficiency in retail operations",
+    "inventory management",
+    "merchandising",
+    "stocking shelves"
+  ],
+  "education_requirements": "",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Benefits include medical",
+    "dental",
+    "vision insurance",
+    "stock options"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "job_title": "Software Developer - New Graduate",
+  "company": "ManTech",
+  "experience_level": "entry",
+  "required_skills": [
+    "Bachelor's degree in computer science or related field",
+    "Experience with Node.js",
+    "Java/JavaScript",
+    "C/C++ and/or Assembly language",
+    "Basic programming experience",
+    "Knowledge of relational and NoSQL databases",
+    "Experience collaborating in an Agile team using tools like Slack",
+    "Office",
+    "Google Suite",
+    "Atlassian"
+  ],
+  "education_requirements": "Bachelor's degree in computer science or related field",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": []
+}

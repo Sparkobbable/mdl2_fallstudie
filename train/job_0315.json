@@ -1,0 +1,31 @@
+{
+  "job_title": "Retail Sales Associate",
+  "company": "H&M",
+  "experience_level": "unknown",
+  "required_skills": [
+    "Customer service",
+    "multitasking",
+    "teamwork",
+    "flexibility",
+    "ability to lift over 25 lbs",
+    "stand for long periods",
+    "climb ladder",
+    "flexible schedule"
+  ],
+  "education_requirements": "",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Discount at HM stores",
+    "medical/dental/vision/pharmacy coverage",
+    "PTO",
+    "holiday and parental pay",
+    "commuter benefits",
+    "health/dependent care FSA",
+    "voluntary benefits",
+    "Seasonal employees are not benefits eligible"
+  ]
+}

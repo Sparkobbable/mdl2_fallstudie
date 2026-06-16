@@ -1,0 +1,33 @@
+{
+  "job_title": "Remote Software Developer (Remote)",
+  "company": "Applied Insight LLC",
+  "experience_level": "unknown",
+  "required_skills": [
+    "Proficiency in at least two languages/frameworks like Java",
+    "Spring",
+    "Python",
+    "Django",
+    "Angular",
+    "React",
+    "Kubernetes",
+    "Terraform",
+    "Agile software development experience",
+    "Ability to work remotely"
+  ],
+  "education_requirements": "",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Excellent compensation and benefits including health insurance",
+    "401K match",
+    "disability insurance",
+    "paid time off",
+    "flexible schedules",
+    "training budget",
+    "education assistance",
+    "mentorships"
+  ]
+}

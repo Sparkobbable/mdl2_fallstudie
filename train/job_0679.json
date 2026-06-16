@@ -1,0 +1,19 @@
+{
+  "job_title": "Accounting Clerk",
+  "company": "Church & Dwight Careers",
+  "experience_level": "junior",
+  "required_skills": [
+    "Accounting",
+    "Microsoft Excel",
+    "Word",
+    "Access",
+    "SAP or other ERP system"
+  ],
+  "education_requirements": "Pursuing Associate's or Bachelor's degree with minimum of accounting I & II years of accounting experience preferably in a manufacturing environment",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": []
+}

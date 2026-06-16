@@ -1,0 +1,34 @@
+{
+  "job_title": "Sales Associate",
+  "company": "Cleveland Plant & Flower Co.",
+  "experience_level": "unknown",
+  "required_skills": [
+    "Knowledge of customer service principles",
+    "floral experience a plus",
+    "sales experience",
+    "ability to achieve sales targets",
+    "team player",
+    "ability to stand/walk/crouch/kneel",
+    "lift up to 50 lbs",
+    "flexible schedule",
+    "office experience",
+    "Excel",
+    "Word",
+    "MS Office"
+  ],
+  "education_requirements": "",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Competitive wage",
+    "sales commissions",
+    "health",
+    "dental",
+    "vision",
+    "life/LTD benefits",
+    "401k available"
+  ]
+}

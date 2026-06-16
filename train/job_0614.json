@@ -1,0 +1,27 @@
+{
+  "job_title": "Assistant Manager",
+  "company": "RB American Group LLC",
+  "experience_level": "unknown",
+  "required_skills": [
+    "Leadership",
+    "management",
+    "high energy",
+    "high standards"
+  ],
+  "education_requirements": "",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Monthly bonuses",
+    "paid time off",
+    "401k with company match",
+    "daily pay",
+    "medical",
+    "dental",
+    "vision",
+    "life insurance"
+  ]
+}

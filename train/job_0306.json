@@ -1,0 +1,22 @@
+{
+  "job_title": "Sales Associate",
+  "company": "West Marine",
+  "experience_level": "unknown",
+  "required_skills": [
+    "Strong communication and customer service skills",
+    "passion for boating/water activities",
+    "ability to lift up to 50 lbs",
+    "flexible availability"
+  ],
+  "education_requirements": "",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Competitive benefits including healthcare coverage",
+    "merchandise discounts",
+    "paid time off"
+  ]
+}

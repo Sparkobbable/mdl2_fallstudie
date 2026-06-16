@@ -1,0 +1,23 @@
+{
+  "job_title": "Real Estate Agent - Training Provided",
+  "company": "Keller Williams Realty",
+  "experience_level": "unknown",
+  "required_skills": [
+    "Real estate license",
+    "sales and negotiation skills",
+    "communication and networking abilities",
+    "work independently",
+    "motivated and driven"
+  ],
+  "education_requirements": "State accredited real estate license.",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Commission-based pay with unlimited earning potential",
+    "flexible schedule",
+    "free training and support"
+  ]
+}

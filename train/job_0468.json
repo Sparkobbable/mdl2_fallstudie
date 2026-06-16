@@ -1,0 +1,22 @@
+{
+  "job_title": "Warehouse Manager",
+  "company": "Graham Packaging",
+  "experience_level": "mid",
+  "required_skills": [
+    "Warehouse management experience",
+    "leadership skills",
+    "computer and typing skills",
+    "verbal and written communication skills",
+    "ability to work under pressure"
+  ],
+  "education_requirements": "Bachelor's degree preferred",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "$50000 per year",
+    "full time schedule"
+  ]
+}

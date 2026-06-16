@@ -1,0 +1,28 @@
+{
+  "job_title": "Project Manager",
+  "company": "Forward Slope Inc.",
+  "experience_level": "junior",
+  "required_skills": [
+    "2+ years management experience with agile methodologies",
+    "generating project management processes",
+    "providing technical leadership",
+    "maintaining costs/resources",
+    "developing schedules",
+    "using SDLC tools like Atlassian/Azure DevOps",
+    "supervising personnel",
+    "communication skills",
+    "proficiency with Microsoft Office"
+  ],
+  "education_requirements": "",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Telework",
+    "flexible hours",
+    "benefits package including 401k match and PTO",
+    "professional development opportunities"
+  ]
+}

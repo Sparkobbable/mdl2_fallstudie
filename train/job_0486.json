@@ -1,0 +1,28 @@
+{
+  "job_title": "Clerical Assistant",
+  "company": "State of Indiana",
+  "experience_level": "unknown",
+  "required_skills": [
+    "Proficiency with telecommunication systems",
+    "Customer service skills",
+    "Computer skills including Microsoft Office",
+    "Attention to detail",
+    "Ability to multitask"
+  ],
+  "education_requirements": "",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Salary starts at $35000/year but may be higher based on experience",
+    "Benefits include medical",
+    "dental",
+    "vision",
+    "retirement",
+    "leave time",
+    "tuition reimbursement",
+    "etc"
+  ]
+}

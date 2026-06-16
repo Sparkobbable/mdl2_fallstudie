@@ -1,0 +1,30 @@
+{
+  "job_title": "Executive Assistant to CEO",
+  "company": "Steiner NYC LLC",
+  "experience_level": "executive",
+  "required_skills": [
+    "Proficiency in Microsoft Office (Word",
+    "Excel",
+    "PowerPoint",
+    "Outlook)",
+    "excellent written and verbal communication",
+    "organizational skills",
+    "attention to detail",
+    "ability to prioritize and multi-task"
+  ],
+  "education_requirements": "Bachelor's degree",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Competitive pay based on experience",
+    "Company-provided health",
+    "dental",
+    "vision",
+    "life insurance",
+    "retirement plan",
+    "paid time off"
+  ]
+}

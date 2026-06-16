@@ -1,0 +1,21 @@
+{
+  "job_title": "Systems Administrator",
+  "company": "Cambridge Information Group Inc",
+  "experience_level": "mid",
+  "required_skills": [
+    "Knowledge of IT concepts",
+    "practices and procedures",
+    "Proficiency in Windows Server",
+    "Office 365",
+    "TCP/IP networking",
+    "virtualization",
+    "programming and scripting"
+  ],
+  "education_requirements": "Bachelor's degree in computer science or related field.",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": []
+}

@@ -1,0 +1,36 @@
+{
+  "job_title": "Software Engineer",
+  "company": "Hughes Private Capital LLC",
+  "experience_level": "junior",
+  "required_skills": [
+    "Object-oriented programming",
+    "2+ years of software engineering experience",
+    "2+ years of full stack web development experience",
+    "HTML",
+    "CSS",
+    "JavaScript and/or its frameworks",
+    "MVC architecture",
+    "Design patterns and frameworks (Struts",
+    "Spring",
+    "Spring Boot and Microservices)",
+    "Agile/Scrum",
+    "Software engineering best practices for the SDLC",
+    "code standards",
+    "reviews",
+    "VCS"
+  ],
+  "education_requirements": "",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Competitive salary",
+    "health benefits",
+    "paid vacation time",
+    "paid sick time",
+    "paid federal holidays",
+    "employee investment program"
+  ]
+}

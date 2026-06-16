@@ -1,0 +1,24 @@
+{
+  "job_title": "Sales Associate",
+  "company": "Torrid",
+  "experience_level": "unknown",
+  "required_skills": [
+    "Previous sales or customer service experience",
+    "ability to multitask in a fast-paced environment",
+    "committed to creating an amazing customer experience",
+    "be fashion focused and stay on top of current trends"
+  ],
+  "education_requirements": "",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Flexible schedules",
+    "associate discount + additional monthly discount coupon",
+    "mental health resources",
+    "tuition reimbursement",
+    "employee stock purchase program"
+  ]
+}

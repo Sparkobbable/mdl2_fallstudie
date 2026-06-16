@@ -1,0 +1,26 @@
+{
+  "job_title": "Sales Representatives",
+  "company": "Secure Agent Marketing",
+  "experience_level": "junior",
+  "required_skills": [
+    "Excellent communication skills",
+    "ability to build relationships",
+    "competitive drive",
+    "personal discipline",
+    "valid driver's license",
+    "reliable transportation"
+  ],
+  "education_requirements": "",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Unmatched bonus structure with compensation up to $XXX",
+    "XXX",
+    "vested renewals",
+    "day 1 access to insurance carriers",
+    "payment for state-mandated training"
+  ]
+}

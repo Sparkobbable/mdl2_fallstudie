@@ -1,0 +1,26 @@
+{
+  "job_title": "Test Developer",
+  "company": "Technogen, Inc",
+  "experience_level": "unknown",
+  "required_skills": [
+    "Node.js",
+    "TypeScript",
+    "DynamoDB",
+    "Redis",
+    "Docker",
+    "Kubernetes",
+    "Helm",
+    "CI/CD tools like Jenkins",
+    "experience with REST APIs",
+    "event-driven systems",
+    "test driven development",
+    "automation testing frameworks"
+  ],
+  "education_requirements": "",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": []
+}

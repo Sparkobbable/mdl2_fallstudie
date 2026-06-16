@@ -1,0 +1,33 @@
+{
+  "job_title": "Senior / Lead Software Engineer (Remote)",
+  "company": "CyberCoders",
+  "experience_level": "lead",
+  "required_skills": [
+    "Understanding of scalability challenges and performance of server-side code",
+    "SaaS development experience",
+    "experience with RESTful web services APIs and asynchronous data flow",
+    "experience designing schemas and performant queries for relational databases",
+    "experience building applications a frontend framework",
+    "deep understanding of commonly used data structures and algorithms",
+    "MySQL",
+    "React",
+    "Redux",
+    "Docker"
+  ],
+  "education_requirements": "",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Full medical",
+    "dental and health benefits",
+    "100% 401K match for your contributions",
+    "unlimited vacation time - we actually use it",
+    "fully remote role - the tools needed to successfully work remotely",
+    "flexible scheduling",
+    "career pathing as well as learning and development opportunities",
+    "recognition perks - long-term incentive plans"
+  ]
+}

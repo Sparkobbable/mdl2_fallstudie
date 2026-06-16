@@ -1,0 +1,27 @@
+{
+  "job_title": "Warehouse Manager",
+  "company": "Norwalk Furniture & Design",
+  "experience_level": "junior",
+  "required_skills": [
+    "Able to carry at minimum 50 lbs",
+    "Strong organizational and time management skills",
+    "Excel proficiency",
+    "Ability to drive a box truck",
+    "Clean driving record",
+    "Ability to pass random drug tests"
+  ],
+  "education_requirements": "High school diploma or equivalent preferred.",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "$15 per hour",
+    "Health insurance",
+    "paid time off",
+    "401k",
+    "employee discount",
+    "flexible schedule"
+  ]
+}

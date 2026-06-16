@@ -1,0 +1,29 @@
+{
+  "job_title": "Entry Level Software Engineer",
+  "company": "Revature LLC",
+  "experience_level": "entry",
+  "required_skills": [
+    "College degree (associates or bachelors)",
+    "Authorized to work in the US",
+    "Desire to learn to code",
+    "Problem solving skills",
+    "Team player",
+    "Adaptable",
+    "Communication and interpersonal skills"
+  ],
+  "education_requirements": "College degree (associates or bachelors).",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Competitive salary",
+    "Relocation & housing assistance",
+    "Paid time off",
+    "Industry certifications",
+    "Mentoring program",
+    "Experience with large US companies",
+    "Career acceleration opportunities"
+  ]
+}

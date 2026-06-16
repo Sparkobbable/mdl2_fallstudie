@@ -1,0 +1,26 @@
+{
+  "job_title": "Real Estate Agent",
+  "company": "Highline Residential Technology",
+  "experience_level": "unknown",
+  "required_skills": [
+    "Real estate license",
+    "sales skills",
+    "outgoing personality",
+    "self-motivated",
+    "multitasking",
+    "follow-up skills",
+    "communication skills"
+  ],
+  "education_requirements": "",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "$20000 per year",
+    "flexible schedule",
+    "work from home",
+    "commission pay"
+  ]
+}

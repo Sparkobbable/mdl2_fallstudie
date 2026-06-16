@@ -1,0 +1,29 @@
+{
+  "job_title": "Web Developer",
+  "company": "EQUILOGICS",
+  "experience_level": "mid",
+  "required_skills": [
+    "possess a diploma/bachelor's degree in computer science or any related field",
+    "excellent programming skills and in-depth knowledge of modern html/css",
+    "asp.net",
+    "javascript)",
+    "front end languages and frameworks (angular",
+    "react",
+    "html",
+    "css",
+    "css framework etc)",
+    "back end languages and frameworks (typescript",
+    "javascript",
+    "nodejs etc)",
+    "sql and nosql databases (mysql",
+    "postgresql",
+    "mongodb"
+  ],
+  "education_requirements": "Possess a diploma/bachelor's degree in computer science or any related field",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": []
+}

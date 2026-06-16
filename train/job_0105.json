@@ -1,0 +1,21 @@
+{
+  "job_title": "Retail Sales Associate",
+  "company": "Talbots",
+  "experience_level": "unknown",
+  "required_skills": [
+    "Selling skills",
+    "customer service skills",
+    "fashion knowledge",
+    "ability to work flexible schedule",
+    "standing for long periods",
+    "lifting up to 50 lbs",
+    "intermediate computer skills"
+  ],
+  "education_requirements": "High school degree",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": []
+}

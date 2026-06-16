@@ -1,0 +1,34 @@
+{
+  "job_title": "Private Investigator",
+  "company": "Allied Universal",
+  "experience_level": "junior",
+  "required_skills": [
+    "Investigative skills",
+    "ability to collect information through observation and interviews",
+    "Valid driver's license",
+    "Must complete training program",
+    "Preferred to have PI license or qualifications to obtain one"
+  ],
+  "education_requirements": "Associate's or Bachelor's degree in criminal justice, accounting, engineering, computer science, foreign language, or related field.",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Medical",
+    "dental",
+    "vision",
+    "disability",
+    "life insurance offered",
+    "Fixed auto allowance",
+    "Company credit card",
+    "Paid training and education opportunities",
+    "Career advancement paths",
+    "Competitive pay and bonuses",
+    "Guaranteed minimum hours",
+    "Overtime opportunities",
+    "Job stability with large employer",
+    "Relocation opportunities"
+  ]
+}

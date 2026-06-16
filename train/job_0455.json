@@ -1,0 +1,25 @@
+{
+  "job_title": "Job Coach",
+  "company": "H.O.P.E. Works",
+  "experience_level": "unknown",
+  "required_skills": [
+    "Dependability",
+    "professionalism",
+    "independence",
+    "excellent communication and time management skills",
+    "ability to work with diverse people",
+    "good organizational skills",
+    "proficiency in Microsoft Word applications",
+    "valid driver's license"
+  ],
+  "education_requirements": "High school diploma or equivalent.",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": [
+    "Hourly pay rate starting at $XX/hour",
+    "Part-time schedule Monday-Friday"
+  ]
+}

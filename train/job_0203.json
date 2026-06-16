@@ -1,0 +1,29 @@
+{
+  "job_title": "Software Engineer",
+  "company": "Hired",
+  "experience_level": "unknown",
+  "required_skills": [
+    "Proficiency in HTML",
+    "CSS",
+    "JavaScript",
+    "ASP.NET",
+    "SQL",
+    "Experience with front-end and back-end programming languages like JavaScript",
+    "Ruby",
+    "Java",
+    "Go",
+    "Swift",
+    "Database skills including NoSQL and Node.js",
+    "Understanding of HTTP protocols",
+    "SSL",
+    "web architecture",
+    "Experience with Git version control"
+  ],
+  "education_requirements": "",
+  "salary_range": {
+    "min": null,
+    "max": null,
+    "currency": null
+  },
+  "compensation_benefits": []
+}
