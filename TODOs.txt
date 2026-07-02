@@ -1,0 +1,4 @@
+- Modelle ausprobieren
+- Few shot learning
+- besseres preprocessing
+- trainingsoptimierungen aus mdl1 probieren
